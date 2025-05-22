@@ -1,3 +1,5 @@
 {
-  "labels": ["from-forked-reno"]
+  "labels": ["from-forked-reno"],
+  "baseBranches": ["$default", "test"],
+  "dependencyDashboard": true
 }
